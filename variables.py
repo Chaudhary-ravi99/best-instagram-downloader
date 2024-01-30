@@ -8,12 +8,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # instagram user for instaloader
-USER = os.getenv('INSTAGRAM_USER_1') # to read from .env file
-PASS = os.getenv('INSTAGRAM_PASS_1')
+USER = os.getenv('test36640') # to read from .env file
+PASS = os.getenv('ravi07yt')
 
 # env variables
-bot_token = os.getenv('BEST_INSTAGRAM_DOWNLOADER_BOT_API')
-log_channel_id = os.getenv('LOG_CHANNEL_ID') # set to False if not needed
+bot_token = os.getenv('6619643339:AAEWe8OGFrKyYXGxVZW4LsvUGsUCP8aRRUI')
+log_channel_id = os.getenv('-1001890206806') # set to False if not needed
 
 # settings
 bot_username = "@Best_Instagram_Downloader_Bot"
